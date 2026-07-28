@@ -7,19 +7,44 @@ INPUT_FILE = Path(
     "data/raw/abs/crime_data.xlsx"
 )
 
+OUTPUT_FILE = Path(
+    "data/raw/abs/table1_offenders.csv"
+)
 
-def list_excel_sheets():
+
+def extract_table_one():
     """
-    Display available worksheets.
+    Extract ABS Table 1 offender statistics.
     """
 
-    workbook = pd.ExcelFile(INPUT_FILE)
+    df = pd.read_excel(
+        INPUT_FILE,
+        sheet_name="Table 1",
+        header=5
+    )
 
-    return workbook.sheet_names
+    return df
+
+
+def save_table_one(df):
+    """
+    Save extracted table as CSV.
+    """
+
+    df.to_csv(
+        OUTPUT_FILE,
+        index=False
+    )
 
 
 if __name__ == "__main__":
-    sheets = list_excel_sheets()
 
-    for sheet in sheets:
-        print(sheet)
+    table = extract_table_one()
+
+    print(table.head())
+
+    save_table_one(table)
+
+    print(
+        f"Saved extracted table to {OUTPUT_FILE}"
+    )
