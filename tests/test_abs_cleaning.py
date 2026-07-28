@@ -37,3 +37,13 @@ def test_notes_are_removed(cleaned_data):
     ].str.startswith(
         "Cells in this table"
     ).any()
+
+def test_all_financial_years_present(cleaned_dataset):
+
+    expected_years = 17
+
+    assert (
+        cleaned_dataset["Year"]
+        .nunique()
+        == expected_years
+    )
