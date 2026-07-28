@@ -36,7 +36,6 @@ Offence_Category,Year,Offender_Count,Offender_Rate
 153 Breach of violence and non-violence orders,2008–09,7332.0,39.2
 156 Offences against justice procedures,2008–09,15148.0,80.9
 16 Miscellaneous offences,2008–09,16957.0,90.6
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2008–09,,
 01 Homicide and related offences(e),2009–10,880.0,4.6
 011 Murder,2009–10,326.0,1.7
 012 Attempted Murder,2009–10,227.0,1.2
@@ -74,7 +73,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2009–10,7970.0,41.8
 156 Offences against justice procedures,2009–10,15067.0,79.0
 16 Miscellaneous offences,2009–10,19228.0,100.8
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2009–10,,
 01 Homicide and related offences(e),2010–11,757.0,3.9
 011 Murder,2010–11,303.0,1.6
 012 Attempted Murder,2010–11,192.0,1.0
@@ -112,7 +110,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2010–11,8348.0,43.2
 156 Offences against justice procedures,2010–11,13186.0,68.2
 16 Miscellaneous offences,2010–11,22190.0,114.7
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2010–11,,
 01 Homicide and related offences(e),2011–12,661.0,3.4
 011 Murder,2011–12,261.0,1.3
 012 Attempted Murder,2011–12,168.0,0.9
@@ -150,7 +147,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2011–12,8383.0,42.7
 156 Offences against justice procedures,2011–12,12751.0,64.9
 16 Miscellaneous offences,2011–12,24397.0,124.2
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2011–12,,
 01 Homicide and related offences(e),2012–13,728.0,3.6
 011 Murder,2012–13,296.0,1.5
 012 Attempted Murder,2012–13,173.0,0.9
@@ -188,7 +184,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2012–13,9218.0,46.1
 156 Offences against justice procedures,2012–13,13123.0,65.7
 16 Miscellaneous offences,2012–13,29453.0,147.4
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2012–13,,
 01 Homicide and related offences(e),2013–14,677.0,3.3
 011 Murder,2013–14,270.0,1.3
 012 Attempted Murder,2013–14,169.0,0.8
@@ -226,7 +221,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2013–14,10176.0,50.2
 156 Offences against justice procedures,2013–14,13278.0,65.5
 16 Miscellaneous offences,2013–14,22454.0,110.7
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2013–14,,
 01 Homicide and related offences(e),2014–15,712.0,3.5
 011 Murder,2014–15,304.0,1.5
 012 Attempted Murder,2014–15,172.0,0.8
@@ -264,7 +258,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2014–15,11184.0,54.4
 156 Offences against justice procedures,2014–15,12274.0,59.7
 16 Miscellaneous offences,2014–15,21956.0,106.7
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2014–15,,
 01 Homicide and related offences(e),2015–16,702.0,3.4
 011 Murder,2015–16,276.0,1.3
 012 Attempted Murder,2015–16,182.0,0.9
@@ -302,197 +295,191 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2015–16,13035.0,62.5
 156 Offences against justice procedures,2015–16,11619.0,55.7
 16 Miscellaneous offences,2015–16,19556.0,93.7
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2015–16,,
-01 Homicide and related offences(e),2016–17,665.0,
-011 Murder,2016–17,245.0,
-012 Attempted Murder,2016–17,161.0,
-013 Manslaughter and driving causing death,2016–17,253.0,
-02 Acts intended to cause injury(f) ,2016–17,78421.0,
-021 Assault,2016–17,72964.0,
-029 Other acts intended to cause injury,2016–17,5460.0,
-03 Sexual assault and related offences(g),2016–17,8123.0,
-031 Sexual assault,2016–17,5844.0,
-032 Non–assaultive sexual offences,2016–17,2276.0,
-04 Dangerous/negligent acts(h),2016–17,2465.0,
-05 Abduction/harassment,2016–17,4943.0,
-06 Robbery/extortion,2016–17,3388.0,
-07 Unlawful entry with intent,2016–17,12360.0,
-08 Theft(i)(j),2016–17,42221.0,
-081 Motor vehicle theft,2016–17,4863.0,
-082 Theft (except motor vehicles),2016–17,32529.0,
-083 Receive or handle proceeds of crime,2016–17,4387.0,
-09 Fraud/deception(k),2016–17,11112.0,
-091 Obtain benefit by deception,2016–17,8730.0,
-092 Forgery and counterfeiting,2016–17,559.0,
-093 Deceptive business/government practices,2016–17,129.0,
-099 Other fraud and deception offences,2016–17,1560.0,
-10 Illicit drug offences(l),2016–17,81160.0,
-102 Deal or traffic in illicit drugs,2016–17,10891.0,
-103 Manufacture or cultivate illicit drugs,2016–17,5077.0,
-104 Possess and/or use illicit drugs,2016–17,54670.0,
-11 Weapons/explosives,2016–17,12117.0,
-12 Property damage and environmental pollution,2016–17,16263.0,
-13 Public order offences(m),2016–17,61198.0,
-131 Disorderly conduct,2016–17,26599.0,
-132 Regulated public order offences,2016–17,17807.0,
-133 Offensive conduct,2016–17,16794.0,
-15 Offences against justice(n)(o),2016–17,26065.0,
-153 Breach of violence and non-violence orders,2016–17,13899.0,
-156 Offences against justice procedures,2016–17,10073.0,
-16 Miscellaneous offences,2016–17,15739.0,
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2016–17,,
-01 Homicide and related offences(e),2017–18,683.0,
-011 Murder,2017–18,234.0,
-012 Attempted Murder,2017–18,138.0,
-013 Manslaughter and driving causing death,2017–18,311.0,
-02 Acts intended to cause injury(f) ,2017–18,78308.0,
-021 Assault,2017–18,72634.0,
-029 Other acts intended to cause injury,2017–18,5674.0,
-03 Sexual assault and related offences(g),2017–18,8523.0,
-031 Sexual assault,2017–18,6016.0,
-032 Non–assaultive sexual offences,2017–18,2510.0,
-04 Dangerous/negligent acts(h),2017–18,2131.0,
-05 Abduction/harassment,2017–18,3953.0,
-06 Robbery/extortion,2017–18,3462.0,
-07 Unlawful entry with intent,2017–18,12186.0,
-08 Theft(i)(j),2017–18,41476.0,
-081 Motor vehicle theft,2017–18,4806.0,
-082 Theft (except motor vehicles),2017–18,31895.0,
-083 Receive or handle proceeds of crime,2017–18,4381.0,
-09 Fraud/deception(k),2017–18,12146.0,
-091 Obtain benefit by deception,2017–18,8811.0,
-092 Forgery and counterfeiting,2017–18,821.0,
-093 Deceptive business/government practices,2017–18,87.0,
-099 Other fraud and deception offences,2017–18,2330.0,
-10 Illicit drug offences(l),2017–18,77784.0,
-102 Deal or traffic in illicit drugs,2017–18,10078.0,
-103 Manufacture or cultivate illicit drugs,2017–18,5124.0,
-104 Possess and/or use illicit drugs,2017–18,52415.0,
-11 Weapons/explosives,2017–18,14463.0,
-12 Property damage and environmental pollution,2017–18,15732.0,
-13 Public order offences(m),2017–18,61237.0,
-131 Disorderly conduct,2017–18,27963.0,
-132 Regulated public order offences,2017–18,18006.0,
-133 Offensive conduct,2017–18,15269.0,
-15 Offences against justice(n)(o),2017–18,27037.0,
-153 Breach of violence and non-violence orders,2017–18,14406.0,
-156 Offences against justice procedures,2017–18,9872.0,
-16 Miscellaneous offences,2017–18,16161.0,
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2017–18,,
-01 Homicide and related offences(e),2018–19,752.0,
-011 Murder,2018–19,321.0,
-012 Attempted Murder,2018–19,157.0,
-013 Manslaughter and driving causing death,2018–19,272.0,
-02 Acts intended to cause injury(f) ,2018–19,78537.0,
-021 Assault,2018–19,72384.0,
-029 Other acts intended to cause injury,2018–19,6152.0,
-03 Sexual assault and related offences(g),2018–19,8619.0,
-031 Sexual assault,2018–19,6018.0,
-032 Non–assaultive sexual offences,2018–19,2602.0,
-04 Dangerous/negligent acts(h),2018–19,2005.0,
-05 Abduction/harassment,2018–19,3939.0,
-06 Robbery/extortion,2018–19,3753.0,
-07 Unlawful entry with intent,2018–19,12244.0,
-08 Theft(i)(j),2018–19,41233.0,
-081 Motor vehicle theft,2018–19,5059.0,
-082 Theft (except motor vehicles),2018–19,30448.0,
-083 Receive or handle proceeds of crime,2018–19,4251.0,
-09 Fraud/deception(k),2018–19,11976.0,
-091 Obtain benefit by deception,2018–19,9075.0,
-092 Forgery and counterfeiting,2018–19,574.0,
-093 Deceptive business/government practices,2018–19,109.0,
-099 Other fraud and deception offences,2018–19,2131.0,
-10 Illicit drug offences(l),2018–19,77208.0,
-102 Deal or traffic in illicit drugs,2018–19,9889.0,
-103 Manufacture or cultivate illicit drugs,2018–19,5252.0,
-104 Possess and/or use illicit drugs,2018–19,52289.0,
-11 Weapons/explosives,2018–19,15313.0,
-12 Property damage and environmental pollution,2018–19,14628.0,
-13 Public order offences(m),2018–19,53583.0,
-131 Disorderly conduct,2018–19,24668.0,
-132 Regulated public order offences,2018–19,15403.0,
-133 Offensive conduct,2018–19,13239.0,
-15 Offences against justice(n)(o),2018–19,27466.0,
-153 Breach of violence and non-violence orders,2018–19,14622.0,
-156 Offences against justice procedures,2018–19,9565.0,
-16 Miscellaneous offences,2018–19,15051.0,
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2018–19,,
-01 Homicide and related offences(e),2019–20,723.0,
-011 Murder,2019–20,317.0,
-012 Attempted Murder,2019–20,140.0,
-013 Manslaughter and driving causing death,2019–20,269.0,
-02 Acts intended to cause injury(f) ,2019–20,78523.0,
-021 Assault,2019–20,71745.0,
-029 Other acts intended to cause injury,2019–20,6777.0,
-03 Sexual assault and related offences(g),2019–20,8678.0,
-031 Sexual assault,2019–20,5944.0,
-032 Non–assaultive sexual offences,2019–20,2742.0,
-04 Dangerous/negligent acts(h),2019–20,1791.0,
-05 Abduction/harassment,2019–20,4039.0,
-06 Robbery/extortion,2019–20,4270.0,
-07 Unlawful entry with intent,2019–20,12323.0,
-08 Theft(i)(j),2019–20,39021.0,
-081 Motor vehicle theft,2019–20,5433.0,
-082 Theft (except motor vehicles),2019–20,28868.0,
-083 Receive or handle proceeds of crime,2019–20,4371.0,
-09 Fraud/deception(k),2019–20,11553.0,
-091 Obtain benefit by deception,2019–20,8945.0,
-092 Forgery and counterfeiting,2019–20,520.0,
-093 Deceptive business/government practices,2019–20,156.0,
-099 Other fraud and deception offences,2019–20,1818.0,
-10 Illicit drug offences(l),2019–20,74443.0,
-102 Deal or traffic in illicit drugs,2019–20,10428.0,
-103 Manufacture or cultivate illicit drugs,2019–20,5135.0,
-104 Possess and/or use illicit drugs,2019–20,50792.0,
-11 Weapons/explosives,2019–20,15018.0,
-12 Property damage and environmental pollution,2019–20,14281.0,
-13 Public order offences(m),2019–20,40975.0,
-131 Disorderly conduct,2019–20,20067.0,
-132 Regulated public order offences,2019–20,11159.0,
-133 Offensive conduct,2019–20,9751.0,
-15 Offences against justice(n)(o),2019–20,27695.0,
-153 Breach of violence and non-violence orders,2019–20,15818.0,
-156 Offences against justice procedures,2019–20,8314.0,
-16 Miscellaneous offences,2019–20,18353.0,
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2019–20,,
-01 Homicide and related offences(e),2020–21,707.0,
-011 Murder,2020–21,263.0,
-012 Attempted Murder,2020–21,182.0,
-013 Manslaughter and driving causing death,2020–21,266.0,
-02 Acts intended to cause injury(f) ,2020–21,82942.0,
-021 Assault,2020–21,74916.0,
-029 Other acts intended to cause injury,2020–21,8023.0,
-03 Sexual assault and related offences(g),2020–21,8982.0,
-031 Sexual assault,2020–21,6068.0,
-032 Non–assaultive sexual offences,2020–21,2918.0,
-04 Dangerous/negligent acts(h),2020–21,2014.0,
-05 Abduction/harassment,2020–21,4285.0,
-06 Robbery/extortion,2020–21,3350.0,
-07 Unlawful entry with intent,2020–21,10200.0,
-08 Theft(i)(j),2020–21,31128.0,
-081 Motor vehicle theft,2020–21,4480.0,
-082 Theft (except motor vehicles),2020–21,22468.0,
-083 Receive or handle proceeds of crime,2020–21,3938.0,
-09 Fraud/deception(k),2020–21,9380.0,
-091 Obtain benefit by deception,2020–21,7393.0,
-092 Forgery and counterfeiting,2020–21,506.0,
-093 Deceptive business/government practices,2020–21,110.0,
-099 Other fraud and deception offences,2020–21,1292.0,
-10 Illicit drug offences(l),2020–21,62698.0,
-102 Deal or traffic in illicit drugs,2020–21,9259.0,
-103 Manufacture or cultivate illicit drugs,2020–21,5578.0,
-104 Possess and/or use illicit drugs,2020–21,40869.0,
-11 Weapons/explosives,2020–21,13105.0,
-12 Property damage and environmental pollution,2020–21,14524.0,
-13 Public order offences(m),2020–21,38151.0,
-131 Disorderly conduct,2020–21,20435.0,
-132 Regulated public order offences,2020–21,9949.0,
-133 Offensive conduct,2020–21,7766.0,
-15 Offences against justice(n)(o),2020–21,28852.0,
-153 Breach of violence and non-violence orders,2020–21,18211.0,
-156 Offences against justice procedures,2020–21,7766.0,
-16 Miscellaneous offences,2020–21,31209.0,
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2020–21,,
+01 Homicide and related offences(e),2016–17,665.0,3.1
+011 Murder,2016–17,245.0,1.2
+012 Attempted Murder,2016–17,161.0,0.8
+013 Manslaughter and driving causing death,2016–17,253.0,1.2
+02 Acts intended to cause injury(f) ,2016–17,78421.0,369.4
+021 Assault,2016–17,72964.0,343.7
+029 Other acts intended to cause injury,2016–17,5460.0,25.7
+03 Sexual assault and related offences(g),2016–17,8123.0,38.3
+031 Sexual assault,2016–17,5844.0,27.5
+032 Non–assaultive sexual offences,2016–17,2276.0,10.7
+04 Dangerous/negligent acts(h),2016–17,2465.0,11.6
+05 Abduction/harassment,2016–17,4943.0,23.3
+06 Robbery/extortion,2016–17,3388.0,16.0
+07 Unlawful entry with intent,2016–17,12360.0,58.2
+08 Theft(i)(j),2016–17,42221.0,198.9
+081 Motor vehicle theft,2016–17,4863.0,22.9
+082 Theft (except motor vehicles),2016–17,32529.0,153.2
+083 Receive or handle proceeds of crime,2016–17,4387.0,20.7
+09 Fraud/deception(k),2016–17,11112.0,52.3
+091 Obtain benefit by deception,2016–17,8730.0,41.1
+092 Forgery and counterfeiting,2016–17,559.0,2.6
+093 Deceptive business/government practices,2016–17,129.0,0.6
+099 Other fraud and deception offences,2016–17,1560.0,7.3
+10 Illicit drug offences(l),2016–17,81160.0,382.3
+102 Deal or traffic in illicit drugs,2016–17,10891.0,51.3
+103 Manufacture or cultivate illicit drugs,2016–17,5077.0,23.9
+104 Possess and/or use illicit drugs,2016–17,54670.0,257.5
+11 Weapons/explosives,2016–17,12117.0,57.1
+12 Property damage and environmental pollution,2016–17,16263.0,76.6
+13 Public order offences(m),2016–17,61198.0,288.3
+131 Disorderly conduct,2016–17,26599.0,125.3
+132 Regulated public order offences,2016–17,17807.0,83.9
+133 Offensive conduct,2016–17,16794.0,79.1
+15 Offences against justice(n)(o),2016–17,26065.0,122.8
+153 Breach of violence and non-violence orders,2016–17,13899.0,65.5
+156 Offences against justice procedures,2016–17,10073.0,47.5
+16 Miscellaneous offences,2016–17,15739.0,74.1
+01 Homicide and related offences(e),2017–18,683.0,3.2
+011 Murder,2017–18,234.0,1.1
+012 Attempted Murder,2017–18,138.0,0.6
+013 Manslaughter and driving causing death,2017–18,311.0,1.4
+02 Acts intended to cause injury(f) ,2017–18,78308.0,362.7
+021 Assault,2017–18,72634.0,336.4
+029 Other acts intended to cause injury,2017–18,5674.0,26.3
+03 Sexual assault and related offences(g),2017–18,8523.0,39.5
+031 Sexual assault,2017–18,6016.0,27.9
+032 Non–assaultive sexual offences,2017–18,2510.0,11.6
+04 Dangerous/negligent acts(h),2017–18,2131.0,9.9
+05 Abduction/harassment,2017–18,3953.0,18.3
+06 Robbery/extortion,2017–18,3462.0,16.0
+07 Unlawful entry with intent,2017–18,12186.0,56.4
+08 Theft(i)(j),2017–18,41476.0,192.1
+081 Motor vehicle theft,2017–18,4806.0,22.3
+082 Theft (except motor vehicles),2017–18,31895.0,147.7
+083 Receive or handle proceeds of crime,2017–18,4381.0,20.3
+09 Fraud/deception(k),2017–18,12146.0,56.3
+091 Obtain benefit by deception,2017–18,8811.0,40.8
+092 Forgery and counterfeiting,2017–18,821.0,3.8
+093 Deceptive business/government practices,2017–18,87.0,0.4
+099 Other fraud and deception offences,2017–18,2330.0,10.8
+10 Illicit drug offences(l),2017–18,77784.0,360.3
+102 Deal or traffic in illicit drugs,2017–18,10078.0,46.7
+103 Manufacture or cultivate illicit drugs,2017–18,5124.0,23.7
+104 Possess and/or use illicit drugs,2017–18,52415.0,242.8
+11 Weapons/explosives,2017–18,14463.0,67.0
+12 Property damage and environmental pollution,2017–18,15732.0,72.9
+13 Public order offences(m),2017–18,61237.0,283.6
+131 Disorderly conduct,2017–18,27963.0,129.5
+132 Regulated public order offences,2017–18,18006.0,83.4
+133 Offensive conduct,2017–18,15269.0,70.7
+15 Offences against justice(n)(o),2017–18,27037.0,125.2
+153 Breach of violence and non-violence orders,2017–18,14406.0,66.7
+156 Offences against justice procedures,2017–18,9872.0,45.7
+16 Miscellaneous offences,2017–18,16161.0,74.9
+01 Homicide and related offences(e),2018–19,752.0,3.4
+011 Murder,2018–19,321.0,1.5
+012 Attempted Murder,2018–19,157.0,0.7
+013 Manslaughter and driving causing death,2018–19,272.0,1.2
+02 Acts intended to cause injury(f) ,2018–19,78537.0,357.4
+021 Assault,2018–19,72384.0,329.4
+029 Other acts intended to cause injury,2018–19,6152.0,28.0
+03 Sexual assault and related offences(g),2018–19,8619.0,39.2
+031 Sexual assault,2018–19,6018.0,27.4
+032 Non–assaultive sexual offences,2018–19,2602.0,11.8
+04 Dangerous/negligent acts(h),2018–19,2005.0,9.1
+05 Abduction/harassment,2018–19,3939.0,17.9
+06 Robbery/extortion,2018–19,3753.0,17.1
+07 Unlawful entry with intent,2018–19,12244.0,55.7
+08 Theft(i)(j),2018–19,41233.0,187.7
+081 Motor vehicle theft,2018–19,5059.0,23.0
+082 Theft (except motor vehicles),2018–19,30448.0,138.6
+083 Receive or handle proceeds of crime,2018–19,4251.0,19.3
+09 Fraud/deception(k),2018–19,11976.0,54.5
+091 Obtain benefit by deception,2018–19,9075.0,41.3
+092 Forgery and counterfeiting,2018–19,574.0,2.6
+093 Deceptive business/government practices,2018–19,109.0,0.5
+099 Other fraud and deception offences,2018–19,2131.0,9.7
+10 Illicit drug offences(l),2018–19,77208.0,351.4
+102 Deal or traffic in illicit drugs,2018–19,9889.0,45.0
+103 Manufacture or cultivate illicit drugs,2018–19,5252.0,23.9
+104 Possess and/or use illicit drugs,2018–19,52289.0,238.0
+11 Weapons/explosives,2018–19,15313.0,69.7
+12 Property damage and environmental pollution,2018–19,14628.0,66.6
+13 Public order offences(m),2018–19,53583.0,243.9
+131 Disorderly conduct,2018–19,24668.0,112.3
+132 Regulated public order offences,2018–19,15403.0,70.1
+133 Offensive conduct,2018–19,13239.0,60.3
+15 Offences against justice(n)(o),2018–19,27466.0,125.0
+153 Breach of violence and non-violence orders,2018–19,14622.0,66.5
+156 Offences against justice procedures,2018–19,9565.0,43.5
+16 Miscellaneous offences,2018–19,15051.0,68.5
+01 Homicide and related offences(e),2019–20,723.0,3.2
+011 Murder,2019–20,317.0,1.4
+012 Attempted Murder,2019–20,140.0,0.6
+013 Manslaughter and driving causing death,2019–20,269.0,1.2
+02 Acts intended to cause injury(f) ,2019–20,78523.0,351.3
+021 Assault,2019–20,71745.0,321.0
+029 Other acts intended to cause injury,2019–20,6777.0,30.3
+03 Sexual assault and related offences(g),2019–20,8678.0,38.8
+031 Sexual assault,2019–20,5944.0,26.6
+032 Non–assaultive sexual offences,2019–20,2742.0,12.3
+04 Dangerous/negligent acts(h),2019–20,1791.0,8.0
+05 Abduction/harassment,2019–20,4039.0,18.1
+06 Robbery/extortion,2019–20,4270.0,19.1
+07 Unlawful entry with intent,2019–20,12323.0,55.1
+08 Theft(i)(j),2019–20,39021.0,174.6
+081 Motor vehicle theft,2019–20,5433.0,24.3
+082 Theft (except motor vehicles),2019–20,28868.0,129.2
+083 Receive or handle proceeds of crime,2019–20,4371.0,19.6
+09 Fraud/deception(k),2019–20,11553.0,51.7
+091 Obtain benefit by deception,2019–20,8945.0,40.0
+092 Forgery and counterfeiting,2019–20,520.0,2.3
+093 Deceptive business/government practices,2019–20,156.0,0.7
+099 Other fraud and deception offences,2019–20,1818.0,8.1
+10 Illicit drug offences(l),2019–20,74443.0,333.1
+102 Deal or traffic in illicit drugs,2019–20,10428.0,46.7
+103 Manufacture or cultivate illicit drugs,2019–20,5135.0,23.0
+104 Possess and/or use illicit drugs,2019–20,50792.0,227.3
+11 Weapons/explosives,2019–20,15018.0,67.2
+12 Property damage and environmental pollution,2019–20,14281.0,63.9
+13 Public order offences(m),2019–20,40975.0,183.3
+131 Disorderly conduct,2019–20,20067.0,89.8
+132 Regulated public order offences,2019–20,11159.0,49.9
+133 Offensive conduct,2019–20,9751.0,43.6
+15 Offences against justice(n)(o),2019–20,27695.0,123.9
+153 Breach of violence and non-violence orders,2019–20,15818.0,70.8
+156 Offences against justice procedures,2019–20,8314.0,37.2
+16 Miscellaneous offences,2019–20,18353.0,82.1
+01 Homicide and related offences(e),2020–21,707.0,3.1
+011 Murder,2020–21,263.0,1.2
+012 Attempted Murder,2020–21,182.0,0.8
+013 Manslaughter and driving causing death,2020–21,266.0,1.2
+02 Acts intended to cause injury(f) ,2020–21,82942.0,368.7
+021 Assault,2020–21,74916.0,333.0
+029 Other acts intended to cause injury,2020–21,8023.0,35.7
+03 Sexual assault and related offences(g),2020–21,8982.0,39.9
+031 Sexual assault,2020–21,6068.0,27.0
+032 Non–assaultive sexual offences,2020–21,2918.0,13.0
+04 Dangerous/negligent acts(h),2020–21,2014.0,9.0
+05 Abduction/harassment,2020–21,4285.0,19.0
+06 Robbery/extortion,2020–21,3350.0,14.9
+07 Unlawful entry with intent,2020–21,10200.0,45.3
+08 Theft(i)(j),2020–21,31128.0,138.4
+081 Motor vehicle theft,2020–21,4480.0,19.9
+082 Theft (except motor vehicles),2020–21,22468.0,99.9
+083 Receive or handle proceeds of crime,2020–21,3938.0,17.5
+09 Fraud/deception(k),2020–21,9380.0,41.7
+091 Obtain benefit by deception,2020–21,7393.0,32.9
+092 Forgery and counterfeiting,2020–21,506.0,2.2
+093 Deceptive business/government practices,2020–21,110.0,0.5
+099 Other fraud and deception offences,2020–21,1292.0,5.7
+10 Illicit drug offences(l),2020–21,62698.0,278.7
+102 Deal or traffic in illicit drugs,2020–21,9259.0,41.2
+103 Manufacture or cultivate illicit drugs,2020–21,5578.0,24.8
+104 Possess and/or use illicit drugs,2020–21,40869.0,181.7
+11 Weapons/explosives,2020–21,13105.0,58.3
+12 Property damage and environmental pollution,2020–21,14524.0,64.6
+13 Public order offences(m),2020–21,38151.0,169.6
+131 Disorderly conduct,2020–21,20435.0,90.8
+132 Regulated public order offences,2020–21,9949.0,44.2
+133 Offensive conduct,2020–21,7766.0,34.5
+15 Offences against justice(n)(o),2020–21,28852.0,128.3
+153 Breach of violence and non-violence orders,2020–21,18211.0,81.0
+156 Offences against justice procedures,2020–21,7766.0,34.5
+16 Miscellaneous offences,2020–21,31209.0,138.7
 01 Homicide and related offences(e),2021–22,635.0,2.8
 011 Murder,2021–22,261.0,1.2
 012 Attempted Murder,2021–22,143.0,0.6
@@ -530,7 +517,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2021–22,18327.0,81.0
 156 Offences against justice procedures,2021–22,7310.0,32.3
 16 Miscellaneous offences,2021–22,61229.0,270.5
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2021–22,,
 01 Homicide and related offences(e),2022–23,627.0,2.7
 011 Murder,2022–23,255.0,1.1
 012 Attempted Murder,2022–23,106.0,0.5
@@ -568,7 +554,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2022–23,19952.0,86.1
 156 Offences against justice procedures,2022–23,7885.0,34.0
 16 Miscellaneous offences,2022–23,11254.0,48.6
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2022–23,,
 01 Homicide and related offences(e),2023–24,677.0,2.8
 011 Murder,2023–24,283.0,1.2
 012 Attempted Murder,2023–24,134.0,0.6
@@ -606,7 +591,6 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2023–24,20073.0,84.2
 156 Offences against justice procedures,2023–24,7620.0,32.0
 16 Miscellaneous offences,2023–24,9876.0,41.4
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2023–24,,
 01 Homicide and related offences(e),2024–25,600.0,2.5
 011 Murder,2024–25,220.0,0.9
 012 Attempted Murder,2024–25,123.0,0.5
@@ -644,4 +628,3 @@ Cells in this table have been randomly adjusted to avoid the release of confiden
 153 Breach of violence and non-violence orders,2024–25,20800.0,85.7
 156 Offences against justice procedures,2024–25,7587.0,31.3
 16 Miscellaneous offences,2024–25,7830.0,32.3
-Cells in this table have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.,2024–25,,

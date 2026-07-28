@@ -23,8 +23,23 @@ COUNT_YEARS = [
 
 
 RATE_YEARS = [
-    f"{year}.1"
-    for year in COUNT_YEARS
+    "2008–09.1",
+    "2009–10.1",
+    "2010–11.1",
+    "2011–12.1",
+    "2012–13.1",
+    "2013–14.1",
+    "2014–15.1",
+    "2015–16.1",
+    "2016–17(d)",
+    "2017–18(d)",
+    "2018–19(d)",
+    "2019–20(d)",
+    "2020–21(d)",
+    "2021–22.1",
+    "2022–23.1",
+    "2023–24.1",
+    "2024–25.1",
 ]
 
 
@@ -42,7 +57,13 @@ def clean_offender_data(df: pd.DataFrame) -> pd.DataFrame:
     df = df[
         ~df["Principal offence(b)(c)"]
         .astype(str)
-        .str.startswith(("(", "©"))
+        .str.startswith(
+            (
+                "(",
+                "©",
+                "Cells in this table"
+            )
+        )
     ]
 
     # Remove totals
@@ -108,6 +129,7 @@ def reshape_offender_rates(df: pd.DataFrame) -> pd.DataFrame:
     rate_df["Year"] = (
         rate_df["Year"]
         .str.replace(".1", "", regex=False)
+        .str.replace("(d)", "", regex=False)
     )
 
     return rate_df

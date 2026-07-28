@@ -29,3 +29,11 @@ def test_remove_notes():
         cleaned.iloc[0]["Offence_Category"]
         == "01 Homicide"
     )
+
+def test_notes_are_removed(cleaned_data):
+
+    assert not cleaned_data[
+        "Offence_Category"
+    ].str.startswith(
+        "Cells in this table"
+    ).any()

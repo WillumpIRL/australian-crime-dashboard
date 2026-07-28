@@ -1,18 +1,21 @@
 # Data Dictionary
 
-## Purpose
+## offenders_clean.csv
 
-Documentation of datasets used in the Australian Crime Analytics Dashboard.
+| Column | Description |
+|---|---|
+| Offence_Category | ABS principal offence classification |
+| Year | Financial year of recorded offenders |
+| Offender_Count | Number of recorded offenders |
+| Offender_Rate | Offenders per 100,000 persons aged 10+ |
 
-## Crime Dataset
+## Source
 
-| Column  | Description                   | Type     |
-|---------|-------------------------------|----------|
-| State   | Australian state or territory | String   |
-| Year    | Reporting year                | Integer  |
-| Offence | Crime category                | String   |
-| Count   | Number of recorded offences   | Integer  |
+Australian Bureau of Statistics  
+Recorded Crime - Offenders
 
 ## Notes
 
-Dataset definitions may vary between Australian jurisdictions.
+Counts represent recorded offenders, not total crime incidents.
+
+Rates allow comparison across years by adjusting for population changes.
