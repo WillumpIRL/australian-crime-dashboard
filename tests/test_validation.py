@@ -7,10 +7,18 @@ def test_valid_columns():
 
     df = pd.DataFrame(
         {
-            "State": ["WA"],
-            "Year": [2025],
-            "Offence": ["Theft"],
-            "Count": [100],
+            "Offence_Category": [
+                "Homicide"
+            ],
+            "Year": [
+                "2008–09"
+            ],
+            "Offender_Count": [
+                816
+            ],
+            "Offender_Rate": [
+                4.1
+            ],
         }
     )
 

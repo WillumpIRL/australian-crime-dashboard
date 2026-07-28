@@ -23,6 +23,13 @@ def extract_table_one():
         header=5
     )
 
+    # Clean column names
+    df.columns = (
+        df.columns
+        .astype(str)
+        .str.strip()
+    )
+
     return df
 
 

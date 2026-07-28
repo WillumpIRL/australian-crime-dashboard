@@ -3,10 +3,10 @@ import pandas as pd
 
 
 REQUIRED_COLUMNS = [
-    "State",
+    "Offence_Category",
     "Year",
-    "Offence",
-    "Count",
+    "Offender_Count",
+    "Offender_Rate",
 ]
 
 
