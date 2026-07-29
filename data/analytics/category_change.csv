@@ -1,0 +1,38 @@
+Offence_Category,start_count,end_count,Change
+01 Homicide and related offences(e),816.0,600.0,-216.0
+011 Murder,318.0,220.0,-98.0
+012 Attempted Murder,232.0,123.0,-109.0
+013 Manslaughter and driving causing death,260.0,255.0,-5.0
+02 Acts intended to cause injury(f) ,72069.0,98530.0,26461.0
+021 Assault,69218.0,88148.0,18930.0
+029 Other acts intended to cause injury,2728.0,10367.0,7639.0
+03 Sexual assault and related offences(g),6340.0,10052.0,3712.0
+031 Sexual assault,4979.0,6572.0,1593.0
+032 Non–assaultive sexual offences,1363.0,3476.0,2113.0
+04 Dangerous/negligent acts(h),1680.0,2044.0,364.0
+05 Abduction/harassment,3598.0,4285.0,687.0
+06 Robbery/extortion,3911.0,3982.0,71.0
+07 Unlawful entry with intent,15887.0,10404.0,-5483.0
+08 Theft(i)(j),58941.0,35266.0,-23675.0
+081 Motor vehicle theft,5438.0,5192.0,-246.0
+082 Theft (except motor vehicles),48203.0,26266.0,-21937.0
+083 Receive or handle proceeds of crime,4296.0,3565.0,-731.0
+09 Fraud/deception(k),10138.0,7912.0,-2226.0
+091 Obtain benefit by deception,7267.0,5765.0,-1502.0
+092 Forgery and counterfeiting,762.0,554.0,-208.0
+093 Deceptive business/government practices,255.0,121.0,-134.0
+099 Other fraud and deception offences,1769.0,1407.0,-362.0
+10 Illicit drug offences(l),56310.0,47550.0,-8760.0
+102 Deal or traffic in illicit drugs,7310.0,7190.0,-120.0
+103 Manufacture or cultivate illicit drugs,5912.0,3606.0,-2306.0
+104 Possess and/or use illicit drugs,37387.0,31636.0,-5751.0
+11 Weapons/explosives,8962.0,16769.0,7807.0
+12 Property damage and environmental pollution,21953.0,13714.0,-8239.0
+13 Public order offences(m),65962.0,30952.0,-35010.0
+131 Disorderly conduct,29428.0,18219.0,-11209.0
+132 Regulated public order offences,20609.0,8759.0,-11850.0
+133 Offensive conduct,15831.0,3974.0,-11857.0
+15 Offences against justice(n)(o),26201.0,32081.0,5880.0
+153 Breach of violence and non-violence orders,7332.0,20800.0,13468.0
+156 Offences against justice procedures,15148.0,7587.0,-7561.0
+16 Miscellaneous offences,16957.0,7830.0,-9127.0
